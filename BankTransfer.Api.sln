@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "BankTransfer.Api", "BankTransfer.Api.njsproj", "{1BF6FD9E-1C87-4A4E-97DD-EFAE38D82A3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BF6FD9E-1C87-4A4E-97DD-EFAE38D82A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BF6FD9E-1C87-4A4E-97DD-EFAE38D82A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BF6FD9E-1C87-4A4E-97DD-EFAE38D82A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BF6FD9E-1C87-4A4E-97DD-EFAE38D82A3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A374CA2-2F00-4603-B409-5A5B06E66A25}
+	EndGlobalSection
+EndGlobal
